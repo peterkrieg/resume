@@ -1,0 +1,83 @@
+/* Reset defaults for consistency */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Page setup for PDF */
+@page {
+  margin: 0; /* Controlled via pdf_options instead */
+  padding: 0.5in;
+}
+
+/* Main body styling */
+body {
+  font-family: 'Arial', 'Helvetica', sans-serif; /* Clean, modern sans-serif */
+  font-size: 11pt; /* Standard resume size */
+  color: #333; /* Softer than pure black */
+}
+
+/* Headings */
+h1 {
+  font-size: 22pt; /* Prominent name/title */
+  font-weight: bold;
+  color: #2c3e50; /* Dark slate for emphasis */
+  margin: 0 0 0.25in 0; /* Tight spacing below */
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 14pt; /* Section headers */
+  font-weight: 600; /* Slightly less bold than h1 */
+  color: #34495e; /* Slightly lighter slate */
+  margin: 0.3in 0 0.15in 0; /* Breathing room */
+  border-bottom: 1px solid #ddd; /* Subtle underline */
+  padding-bottom: 0.05in;
+}
+
+/* Paragraphs */
+p {
+  margin: 0 0 0.1in 0; /* Minimal spacing between entries */
+}
+
+/* Lists (e.g., job duties, skills) */
+ul,
+ol {
+  margin: 0 0 0.1in 0;
+  padding-left: 0.3in; /* Tight but readable indent */
+}
+
+li {
+  margin: 0.05in 0; /* Small gap between items */
+}
+
+/* Links (if included in Markdown) */
+a {
+  color: #2980b9; /* Professional blue */
+  text-decoration: none; /* No underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Subtle hover effect, though less relevant in PDF */
+}
+
+/* Code blocks (optional, e.g., for tech skills) */
+pre,
+code {
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 10pt;
+  background: #f5f5f5; /* Light gray background */
+  padding: 0.1in;
+  border-radius: 3px;
+}
+
+/* Ensure content fits within page */
+* {
+  box-sizing: border-box;
+}
+
+.split-equal {
+  display: flex;
+  justify-content: space-between;
+}
