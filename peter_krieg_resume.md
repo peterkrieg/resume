@@ -22,6 +22,7 @@
 
 - Led the complete migration of a 200k-line codebase from Backbone to React over 5 years.
 - Optimized webpack to speed up production deploys by 25%.
+- Facilitated internationalization and expansion of app into 3 different regions.
 
 <br />
 
@@ -37,7 +38,7 @@
 - Developed core features of SaaS application, including audio redactions that drove a seven-figure ARR increase.
 - Spearheaded an initiative that reduced production bugs by 15x through improved error monitoring.
 - Accelerated end-to-end test suite speed by 5x, migrating from Selenium to Cypress to Playwright, cutting test time from 12 minutes to ~2.5 minutes.
-- Made key page 45% faster by adjusting network waterfall
+- Made key page 45% faster by adjusting network waterfall.
 - Mentored team members on React best practices.
 - Directed the creation and maintenance of a shared component library using Storybook, streamlining
   collaboration between development and design teams.

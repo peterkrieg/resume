@@ -1,0 +1,12 @@
+{
+  "name": "resumes",
+  "version": "1.0.0",
+  "description": "My resume is written in markdown and then uses the `md-to-pdf` package to convert markdown to pdf.  This can be viewed in real-time via the command:",
+  "main": "index.js",
+  "scripts": {
+    "start": "open -a Skim.app ./peter_krieg_resume.pdf && npx md-to-pdf peter_krieg_resume.md -w --stylesheet=styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
