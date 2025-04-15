@@ -6,8 +6,10 @@
 
 ## Skills & Interests
 
-- **_Skills_** React, Typescript, Javascript, Node.js, HTML, CSS
-- **_Interests_** Skiing, trail running, camping, board games, photography
+- **Languages**: TypeScript, JavaScript, HTML, CSS, SQL
+- **Frameworks**: React, Node.js, Next.js, Rails, AWS ecosystem
+- **Testing Tools**: Playwright, Cypress, React Testing Library, Vitest
+- **Interests**: Skiing, trail running, camping, board games, photography, ultimate frisbee
 
 ## Experience
 
@@ -20,9 +22,11 @@
   <em>Remote</em> 
 </div>
 
-- Led the complete migration of a 200k-line codebase from Backbone to React over 5 years.
+- Led the complete migration of a 200k-line codebase from Backbone to React.
+- Owned core features of SaaS application, including audio redactions that drove a seven-figure ARR increase.
 - Optimized webpack to speed up production deploys by 25%.
-- Facilitated internationalization and expansion of app into 3 different regions.
+- Implemented internationalization, expanding the app into 3 different regions.
+
 
 <br />
 
@@ -35,13 +39,11 @@
   <em>Remote</em> 
 </div>
 
-- Developed core features of SaaS application, including audio redactions that drove a seven-figure ARR increase.
-- Spearheaded an initiative that reduced production bugs by 15x through improved error monitoring.
+- Spearheaded an initiative that reduced production bug rate by 93% through improved error monitoring.
 - Accelerated end-to-end test suite speed by 5x, migrating from Selenium to Cypress to Playwright, cutting test time from 12 minutes to ~2.5 minutes.
 - Made key page 45% faster by adjusting network waterfall.
-- Mentored team members on React best practices.
-- Directed the creation and maintenance of a shared component library using Storybook, streamlining
-  collaboration between development and design teams.
+- Mentored team of 20 engineers on React best practices.
+- Developed a shared component library using Storybook, improving design consistency across 5 different teams.
 - Introduced code-splitting, reducing the main JavaScript bundle size by 40%.
 
 <br />
@@ -55,8 +57,7 @@
   <em>Boston, MA</em> 
 </div>
 
-- Engineered high volume (~500k events / second) distributed system to replace old core event pipeline. This
-  was written in Scala, Akka, and Kafka, replacing a node.js project.
+- Engineered a high-volume (500k events/sec) distributed system using Scala, Akka, and Kafka.
 - Built endpoints for public-facing API, while improving performance and documentation.
 
 <br />
@@ -70,8 +71,9 @@
   <em>Boston, MA</em> 
 </div>
 
-- Developed modern, data-intensive web dashboards using Angular 5+, Typescript, and D3.
+- Developed modern, data-intensive web dashboards using Angular 5+, TypeScript, and D3.
 - Designed RESTful APIs using Node.js and Express.
+- Prototyped schema relationships for a complex clinical trial data application with over 100 SQL tables.
 - Managed company DevOps infrastructure, including AWS EC2, Beanstalk, and SQS.
 
 <br />
@@ -81,17 +83,18 @@
   <strong>June 2016 – July 2018</strong>  
 </div>
 <div class="split-equal" style="margin-bottom: 8px">  
-  <em>Leader Engineer & Co-Founder</em>
+  <em>Lead Engineer & Co-Founder</em>
   <em>Boston, MA</em> 
 </div>
 
 - Co-founded a MassChallenge-backed startup, driving it from inception through acquisition.
 - Architected the company’s core product—a piracy detection engine processing millions of web pages weekly using AWS cloud services (EC2, ECS, Beanstalk, etc).
 - Created a custom Electron desktop application that tripled piracy review productivity.
-- Led company's database switch from MongoDB to PostgreSQL, speeding up critical requests by 3x.
+- Led company's database migration from MongoDB to PostgreSQL, speeding up critical requests by 250%.
 - Built interactive dashboards and data visualization tools for customer insights.
 
 <br />
+
 
 <div class="split-equal">  
   <strong>Freelance Software Engineer</strong>
@@ -116,6 +119,7 @@
 
 - Served as a physics class tutor and laboratory teaching assistant.
 - Co-founded a Cub Scout Pack for Somali immigrant families, mentoring children aged 6-10.
+- Captain of club ultimate frisbee team
 
 
 

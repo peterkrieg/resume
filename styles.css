@@ -8,7 +8,7 @@ body {
 /* Page setup for PDF */
 @page {
   margin: 0; /* Controlled via pdf_options instead */
-  padding: 1in;
+  padding: 0.75in;
 }
 
 /* Main body styling */

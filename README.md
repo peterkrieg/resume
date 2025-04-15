@@ -7,3 +7,5 @@ npm start
 ```
 
 Which uses the [Skim](https://skim-app.sourceforge.io/) pdf viewer to real-time view the changes made to my resume
+
+If I need to make style changes, edit the `styles.css` package and restart the command `npm start`.
