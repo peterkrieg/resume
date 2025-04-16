@@ -1,6 +1,7 @@
 # Peter Krieg
 
-**Senior Software Engineer <span></span>**| pkrieg2@gmail.com | 339-225-0673 | peterkrieg.com
+<!-- I use the &commat; to avoid blue text style on the email, which I believe is default of md-to-pdf package -->
+**Senior Software Engineer <span></span>**| pkrieg2&commat;gmail.com | 339-225-0673 | peterkrieg.com
 
 ---
 
@@ -15,7 +16,7 @@
 
 <div class="split-equal">  
   <strong>Reveal</strong>
-  <strong>August 2023-Present</strong> 
+  <strong>August 2023 – Present</strong> 
 </div>
 <div class="split-equal" style="margin-bottom: 8px">  
   <em>Lead Engineer</em>
@@ -31,17 +32,17 @@
 <br />
 
 <div class="split-equal">  
-  <strong>Logikcull (Acquired)</strong>
-  <strong>August 2019-August 2023</strong> 
+  <strong>Logikcull (Acquired by Reveal)</strong>
+  <strong>August 2019 – August 2023</strong> 
 </div>
 <div class="split-equal" style="margin-bottom: 8px">  
   <em>Lead Frontend Engineer</em>
   <em>Remote</em> 
 </div>
 
-- Spearheaded an initiative that reduced production bug rate by 93% through improved error monitoring.
+- Led error monitoring overhaul that reduced production bug rate by 93%.
 - Accelerated end-to-end test suite speed by 5x, migrating from Selenium to Cypress to Playwright, cutting test time from 12 minutes to ~2.5 minutes.
-- Made key page 45% faster by adjusting network waterfall.
+- Enhanced core page performance through optimizing network requests, achieving a 45% speed boost.
 - Mentored team of 20 engineers on React best practices.
 - Developed a shared component library using Storybook, improving design consistency across 5 different teams.
 - Introduced code-splitting, reducing the main JavaScript bundle size by 40%.
@@ -50,7 +51,7 @@
 
 <div class="split-equal">  
   <strong>Threat Stack</strong>
-  <strong>August 2018 - April 2019</strong> 
+  <strong>August 2018 – April 2019</strong> 
 </div>
 <div class="split-equal" style="margin-bottom: 8px">  
   <em>Software Engineer</em>
@@ -91,14 +92,14 @@
 - Architected the company’s core product—a piracy detection engine processing millions of web pages weekly using AWS cloud services (EC2, ECS, Beanstalk, etc).
 - Created a custom Electron desktop application that tripled piracy review productivity.
 - Led company's database migration from MongoDB to PostgreSQL, speeding up critical requests by 250%.
-- Built interactive dashboards and data visualization tools for customer insights.
+- Launched an analytics dashboard to consolidate user data from 6 different sources 
 
 <br />
 
 
 <div class="split-equal">  
   <strong>Freelance Software Engineer</strong>
-  <strong>June 2014 - August 2019</strong>  
+  <strong>June 2014 – August 2019</strong>  
 </div>
 
 - Delivered a full-stack security camera monitoring platform, integrating real-time image processing with a React

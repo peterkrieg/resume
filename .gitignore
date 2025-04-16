@@ -1,2 +1,5 @@
 .DS_Store
 resume-generator
+
+# We don't keep track of this since the relevant changes are made in the markdown file
+peter_krieg_resume.pdf
