@@ -92,7 +92,7 @@
 - Architected the company’s core product—a piracy detection engine processing millions of web pages weekly using AWS cloud services (EC2, ECS, Beanstalk, etc).
 - Created a custom Electron desktop application that tripled piracy review productivity.
 - Led company's database migration from MongoDB to PostgreSQL, speeding up critical requests by 250%.
-- Launched an analytics dashboard to consolidate user data from 6 different sources 
+- Launched an analytics dashboard to consolidate user data from 6 different sources.
 
 <br />
 
@@ -120,7 +120,7 @@
 
 - Served as a physics class tutor and laboratory teaching assistant.
 - Co-founded a Cub Scout Pack for Somali immigrant families, mentoring children aged 6-10.
-- Captain of club ultimate frisbee team
+- Captain of club ultimate frisbee team.
 
 
 
