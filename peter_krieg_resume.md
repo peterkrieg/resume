@@ -7,7 +7,7 @@
 
 
 ## Summary
-Senior Frontend Engineer specializing in resilient, real-time React applications with complex state.
+Senior Frontend Engineer with physics / math background.  Specializes in resilient, real-time React applications with complex state.
 
 ## Skills & Interests
 
