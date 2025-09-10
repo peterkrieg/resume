@@ -5,10 +5,14 @@
 
 ---
 
+
+## Summary
+Senior Frontend Engineer specializing in resilient, real-time React applications with complex state.
+
 ## Skills & Interests
 
-- **Languages**: TypeScript, JavaScript, HTML, CSS, SQL
-- **Frameworks**: React, Node.js, Next.js, Rails, AWS ecosystem
+- **Languages**: TypeScript, JavaScript, HTML, CSS, SQL, GraphQL
+- **Frameworks**: React, Node.js, Next.js, Rails, Electron, AWS ecosystem
 - **Testing Tools**: Playwright, Cypress, React Testing Library, Vitest
 - **Interests**: Skiing, trail running, camping, board games, photography, ultimate frisbee
 
@@ -41,9 +45,9 @@
 </div>
 
 - Led error monitoring overhaul that reduced production bug rate by 93%.
-- Accelerated end-to-end test suite speed by 5x, migrating from Selenium to Cypress to Playwright, cutting test time from 12 minutes to ~2.5 minutes.
+- Accelerated end-to-end test suite speed by 5x (Selenium → Cypress → Playwright), cutting test time from 12 minutes to ~2.5 minutes.  Established front-end testing strategy.
 - Enhanced core page performance through optimizing network requests, achieving a 45% speed boost.
-- Mentored team of 20 engineers on React best practices.
+- Mentored team of 20 engineers on React and TypeScript best practices.
 - Developed a shared component library using Storybook, improving design consistency across 5 different teams.
 - Introduced code-splitting, reducing the main JavaScript bundle size by 40%.
 
@@ -90,7 +94,7 @@
 
 - Co-founded a MassChallenge-backed startup, driving it from inception through acquisition.
 - Architected the company’s core product—a piracy detection engine processing millions of web pages weekly using AWS cloud services (EC2, ECS, Beanstalk, etc).
-- Created a custom Electron desktop application that tripled piracy review productivity.
+- Created a cross-platform Electron desktop application that tripled piracy review productivity.
 - Led company's database migration from MongoDB to PostgreSQL, speeding up critical requests by 250%.
 - Launched an analytics dashboard to consolidate user data from 6 different sources.
 
