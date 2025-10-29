@@ -7,7 +7,7 @@
 
 
 ## Summary
-Senior Frontend Engineer with physics / math background.  Specializes in resilient, real-time React applications with complex state.
+Senior Frontend Engineer with physics / math background.  Specializes in resilient, real-time React applications with complex state.  Skilled at using the latest AI tools to work more effectively.
 
 ## Skills & Interests
 
@@ -48,6 +48,7 @@ Senior Frontend Engineer with physics / math background.  Specializes in resilie
 - Accelerated end-to-end test suite speed by 5x (Selenium → Cypress → Playwright), cutting test time from 12 minutes to ~2.5 minutes.  Established front-end testing strategy.
 - Enhanced core page performance through optimizing network requests, achieving a 45% speed boost.
 - Mentored team of 20 engineers on React and TypeScript best practices.
+- Led accessibility audit of the entire application, identifying and resolving WCAG 2.1 compliance issues across all core workflows.
 - Developed a shared component library using Storybook, improving design consistency across 5 different teams.
 - Introduced code-splitting, reducing the main JavaScript bundle size by 40%.
 
@@ -66,6 +67,9 @@ Senior Frontend Engineer with physics / math background.  Specializes in resilie
 - Built endpoints for public-facing API, while improving performance and documentation.
 
 <br />
+<br />
+<br />
+
 
 <div class="split-equal">  
   <strong>ERT</strong>
